@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": ".."
+		},
+		{
+			"path": "../../../../Desktop/React Projects/firstproject"
 		}
 	],
 	"settings": {}
